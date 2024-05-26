@@ -6,7 +6,7 @@
     Algorithms and Methods of Programming final task
 </h4>
 
-![MazeAlgorithm](https://i.ibb.co/GTzd4ms/2024-05-27-011601577.png "MazeAlgorithm")
+![MazeAlgorithm](https://i.ibb.co/m4tSzpv/2024-05-27-012459589.png "MazeAlgorithm")
 
 <br />
 
